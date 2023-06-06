@@ -1,11 +1,11 @@
 #Convert the number into conversion:s
 
-n=int(input("enter a value:"))
-newnum=0
-while n>0:
-   remainder=n%10
-   newnum=newnum*10+remainder
-   n=n//10
+n = int(input("enter a value:"))
+newnum = 0
+while n > 0:
+   remainder = n%10
+   newnum = newnum *10 + remainder
+   n = n//10
 print(newnum)
 
 
