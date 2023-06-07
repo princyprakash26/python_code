@@ -5,6 +5,6 @@ print(len(a))
 i = 0 
 for i in range (i < len(a)):
     sum = sum(a)
-    i += 1
+ 
 
 print("sum is :", sum)
