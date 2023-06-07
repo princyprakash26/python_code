@@ -1,4 +1,4 @@
-#Factorial of he given number:
+#Factorial of the given number:
 n = int(input("Enter the value:"))
 fact = 1
 num = 1
