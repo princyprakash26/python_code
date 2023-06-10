@@ -12,4 +12,4 @@ try:
 
     inf.close()
 except FileNotFoundError:
-    print('Files are is not found')
+    print('File not found')
