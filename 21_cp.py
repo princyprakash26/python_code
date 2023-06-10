@@ -14,4 +14,4 @@ try:
     new.write(text)
 
 except FileNotFoundError:
-        print("File not found")
+        print("File not Found")
