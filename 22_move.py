@@ -18,5 +18,5 @@ try:
 
 
 except FileNotFoundError:
-    print("Filename is not found")
+    print("File not found")
 
